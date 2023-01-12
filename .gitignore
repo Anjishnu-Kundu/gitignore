@@ -1,0 +1,5 @@
+secrets.txt
+
+#Comment
+#Pod Files
+# *.txt (wildcard) is used to ignore committing all the .txt files
